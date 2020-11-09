@@ -10,9 +10,9 @@
 ## Post-installation
    
 ### Menu "Réglages/Général"
- URL Wordpress : `http://xxx/sous-dossier/`
- URL du site : `http://xxx`
- Format date : `j M Y`
+ * URL Wordpress : `http://xxx/sous-dossier/`
+ * URL du site : `http://xxx`
+ * Format date : `j M Y`
 
 ### .../Permaliens
  `Titre de la publication`
@@ -21,9 +21,11 @@
  :warning:**COPIER** le fichier `index.php` à la racine du server
 
  Editer le fichier puis dans la section
+
  `/** Loads the WordPress Environment and Template */`
 
  Modifier la ligne
+ 
  `require __DIR__ . '/`**sous-dossier**`/wp-blog-header.php';`
 
 ### Mettre à jour les permaliens

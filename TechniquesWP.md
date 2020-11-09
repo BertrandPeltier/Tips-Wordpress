@@ -2,4 +2,4 @@
 
 ## Sommaire
  * [Installation de WP](techwp/installation.md)
- * [Thème enfant](techwp/child)
+ * [Thème enfant](techwp/child.md)
