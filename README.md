@@ -6,7 +6,8 @@ Il existe déjà environ 2.765.236.581 tutoriels, blogs, sites web et autres sou
 
 **Sources :**
   * ma formation chez [Livementor](https://www.livementor.com/formation/wordpress/)
-  * recherche web sur les 2.765.236.581 de blogs, tutoriels, etc existants déjà :))
+  * recherche web sur les 2.765.236.581 de blogs, tutoriels, etc, existants déjà :))
 
 **Autres sources :**
   * [Babiato Forums](https://babiato.org/), excellent site (gratuit) pour télécharger et donc tester les plugins WP (nulled version)
+  * [repo O'Clock Alumni](https://github.com/O-clock-Alumni/fiches-recap/tree/master/wordpress)
