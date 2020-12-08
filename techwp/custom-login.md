@@ -7,6 +7,7 @@
 * Mettre à sa place le nouveau fichier
 
 # Custom de l'URL de connexion
+Ajout de code dans functions.php du thème enfant et ensuite le custom se fait dans le CSS et le JS :
 [codex Wordpress.org](https://codex.wordpress.org/Customizing_the_Login_Form)
 
 
