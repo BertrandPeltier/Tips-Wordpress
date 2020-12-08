@@ -8,7 +8,7 @@
 
 # Custom avec du CSS
 
-* Ajouter un dossier `custom-login` dans le thème enfant dans lequel on place le fichier CSS `login-style.css`.
+* Ajouter un dossier `login` dans le thème enfant dans lequel on place le fichier CSS `login-style.css`.
 
 * Dans le fichier functions.php du thème enfant ajouter les lignes de codes suivantes (permet de lier le fichier CSS à la page de connexion) :
 ```php
