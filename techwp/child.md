@@ -10,7 +10,7 @@
 
 ### functions.php
  Ajouter les lignes :
- 
+```php
     <?php
     /**
     ** activation theme
@@ -20,10 +20,11 @@
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 
     }
+```
 
 ### style.css
 Ajouter les lignes :
-
+```php
     /*
     Theme Name: xxx
     Description: xxx
@@ -32,3 +33,4 @@ Ajouter les lignes :
     Template: Nom exact du thème parent (attention aux majuscule)
     Version: xxx
     */
+```
