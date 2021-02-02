@@ -16,6 +16,7 @@ Il existe déjà environ 2.765.236.581 tutoriels, blogs, sites web et autres sou
  * [Installation de WP](techwp/installation.md)
  * [Thème enfant](techwp/child.md)
  * [HTTPS et SSL](techwp/https-ssl.md)
+ * [Ajout manuel d'un favicon](techwp/favicon.md)
  * [Custom login](techwp/custom-login.md)
  * [Redirection des 404](techwp/404.md)
  * [Interdire l'accès au back-office pour les abonnés](techwp/admin-bo.md)
