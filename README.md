@@ -20,3 +20,4 @@ Il existe déjà environ 2.765.236.581 tutoriels, blogs, sites web et autres sou
  * [Custom login](techwp/custom-login.md)
  * [Redirection des 404](techwp/404.md)
  * [Interdire l'accès au back-office pour les abonnés](techwp/admin-bo.md)
+ * [Cacher un compte admin de la liste des utilisateurs](techwp/hide-admin.md)
