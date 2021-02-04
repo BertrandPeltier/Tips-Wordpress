@@ -22,4 +22,5 @@ Il existe déjà environ 2.765.236.581 tutoriels, blogs, sites web et autres sou
  * [Interdire l'accès au back-office pour les abonnés](techwp/admin-bo.md)
  * [Cacher un compte admin de la liste des utilisateurs](techwp/hide-admin.md)
  * [Cacher la version de WordPress dans le code source](techwp/hide-version.md)
+ * [Redirection après logout](techwp/logout-redirect.md)
  
