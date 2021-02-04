@@ -7,6 +7,6 @@ function my_favicon(){
 	?>
 	<link rel="icon" type="image/png" sizes="32x32" href="url-favicon">
 	<?php
-	}
-	  add_action('wp_head', 'my_favicon');
+}
+add_action('wp_head', 'my_favicon');
 ```
