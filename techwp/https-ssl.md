@@ -12,6 +12,7 @@ Editer (ou créer un fichier .htaccess) et rajouter en ligne 1 :
 RewriteEngine on
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
 ```
 
 ```
